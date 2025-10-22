@@ -28,6 +28,6 @@ el_principito
 
 el_rey_hablo_con
 
-_: Indica la posición de un espacio en blanco.
+"_": Indica la posición de un espacio en blanco.
 
 ¿Cuál de las opciones genera texto más consistente? Haga este ejercicio hasta conseguir un texto de 250 caracteres (o 250 palabras). Recuerde que en su alfabeto es importante considerar el espacio en blanco como un caracter.
